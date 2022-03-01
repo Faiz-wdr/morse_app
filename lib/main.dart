@@ -121,7 +121,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       left: 30,
                     )),
                 onPressed: () {
-                  flashHandler(context, 'Bismillah');
+                  flashHandler(context, 'tomorse');
 
                   print(_textController.text);
                   setState(() {
