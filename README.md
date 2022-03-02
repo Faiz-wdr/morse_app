@@ -1,19 +1,32 @@
-# morse_app
+# Morse Code Flash App
+Long Description about project. This project do that. This project is awesome...
 
-A new Flutter project.
+## Team members
+1. [Aravind PS](https://github.com/Arvi2k)
+2. [Mohammed Faiz K](https://github.com/Faiz-wdr)
 
-## Getting Started
+## Team Id
+Flutter / 94
 
-This project is a starting point for a Flutter application.
+## Link to product walkthrough
+[link to video]
 
-A few resources to get you started if this is your first Flutter project:
+## How it Works ?
+1. Open the App
+2. Enter Your Input Text
+3. Click on Button Below
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Libraries used
+google_fonts: 2.3.1
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+torch_light: 0.4.0
+
+## How to configure
+Instructions for setting up project
+
+## How to Run
+Instructions for running
+
 
 
 ### App UI
