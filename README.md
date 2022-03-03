@@ -1,6 +1,8 @@
 # Morse Code Flash App
-Long Description about project. This project do that. This project is awesome...
+Morse Code is a type of representation by .(dot) and -(dash) for corresponding characters. Here the MORSE CODE FLASH APP which build with Flutter will helps you to convert ypur inputs into Morse code.
+By addition, flash light of your device will works as per code.
 
+Experience and Share your Feedback.
 ## Team members
 1. [Aravind PS](https://github.com/Arvi2k)
 2. [Mohammed Faiz K](https://github.com/Faiz-wdr)
@@ -9,7 +11,7 @@ Long Description about project. This project do that. This project is awesome...
 Flutter / 94
 
 ## Link to product walkthrough
-[link to video]
+<https://www.loom.com/share/281e31a76290461ca3986ffc3dca44ae>
 
 ## How it Works ?
 1. Open the App
@@ -22,10 +24,16 @@ google_fonts: 2.3.1
 torch_light: 0.4.0
 
 ## How to configure
-Instructions for setting up project
+Download & Install the App by link given below.
+If any issue found, open device settings and goto 'Unknown source installation' and enable the option for Chrome app/ Google drive (it will depends upon which app you Selected)
 
 ## How to Run
-Instructions for running
+You can easily run this app in your SmartPhones, Simply Type a text in text field and convert your input text to Morse code by clicking the button below.
+automatically the flash light will works coressponding to Morse code.
+
+Copy and paste this text into text field to see an example:
+
+5 5 5 5 5 5 5 5 5 5 5 5 5 5
 
 
 
