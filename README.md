@@ -30,6 +30,7 @@ Instructions for running
 
 
 ### App UI
-<img src="https://user-images.githubusercontent.com/66381995/156402039-0438d722-3b50-42c8-915a-8382db03980e.png" width= "700" height = "700" />
+<img src="https://user-images.githubusercontent.com/66381995/156498731-85dbaa42-a211-497c-b478-75428fa45400.png"
+ width= "700" height = "700" />
 
-### [Click Here to Download App](http://bit.ly/3K5Zwme)
+### [Click Here to Download App](https://bit.ly/3pxBuZT)
