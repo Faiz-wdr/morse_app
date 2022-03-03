@@ -121,7 +121,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       left: 30,
                     )),
                 onPressed: () {
-                  flashHandler(context, 'tomorse');
+                  flashHandler(context, _textController.text);
 
                   print(_textController.text);
                   setState(() {
@@ -134,6 +134,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
         ],
       ),
+      resizeToAvoidBottomInset: false,
     );
   }
 }
@@ -222,7 +223,7 @@ String tomorse(String str) {
 void flashHandler(BuildContext context, String string) async {
   int current1 = new DateTime.now().second;
 
-  tomorse('tomorse').split("").forEach(await (e) async {
+  tomorse(string).split("").forEach(await (e) async {
         if (e == '-') {
           _enableTorch(context);
           await Future.delayed(const Duration(seconds: 2));
