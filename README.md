@@ -42,3 +42,9 @@ Copy and paste this text into text field to see an example:
  width= "700" height = "700" />
 
 ### [Click Here to Download App](https://bit.ly/3pxBuZT)
+
+
+<a href="https://www.buymeacoffee.com/faizwdr">
+<img width="145" alt="yellow-button" src="https://user-images.githubusercontent.com/66381995/156776336-48503456-bd85-4b93-aa39-85892fbc7213.png" = "https://buymeacoffee.com/faizwdr">
+</a>
+
